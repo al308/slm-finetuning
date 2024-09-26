@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Configurations and environment files
+*.env
+.env.*
+*.secret
+secrets/
+
+# PyInstaller
+#  Usually these files are written by a Python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+coverage.xml
+
+# Test output
+*.log
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Hugging Face Datasets cache
+.cache/huggingface/
+cache_dir/
+data/
+
+# Dataset files (if locally downloaded data is not tracked)
+data/
+
+# Cache for DVC or ML experiments (optional if using DVC)
+.dvc/
+
+# mypy
+.mypy_cache/
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# Pyenv
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local testing and tox environments
+.tox/
+.nox/
+
+# Pyre type checker
+.pyre/
+
+# AWS Lambda packages
+package.zip
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and database
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
